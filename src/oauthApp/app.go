@@ -2,10 +2,10 @@ package oauthApp
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/hari/bookstore_oauth_api/src/httpHandler"
-	"github.com/hari/bookstore_oauth_api/src/repo/dbRepo"
-	"github.com/hari/bookstore_oauth_api/src/repo/userRepo"
-	"github.com/hari/bookstore_oauth_api/src/services"
+	"github.com/hariprathap-hp/bookstore_oauth_api/src/httpHandler"
+	"github.com/hariprathap-hp/bookstore_oauth_api/src/repo/dbRepo"
+	"github.com/hariprathap-hp/bookstore_oauth_api/src/repo/userRepo"
+	"github.com/hariprathap-hp/bookstore_oauth_api/src/services"
 )
 
 var (

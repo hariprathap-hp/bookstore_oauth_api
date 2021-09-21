@@ -4,9 +4,9 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/hari/bookstore_oauth_api/src/domain/token"
-	"github.com/hari/bookstore_oauth_api/src/services"
-	"github.com/hari/bookstore_users_api/utils/errors"
+	"github.com/hariprathap-hp/bookstore_oauth_api/src/domain/token"
+	"github.com/hariprathap-hp/bookstore_oauth_api/src/services"
+	"github.com/hariprathap-hp/bookstore_users_api/src/utils/errors"
 )
 
 type AccessTokenHandler interface {

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/hari/bookstore_oauth_api/src/domain/userLogin"
-	"github.com/hari/bookstore_users_api/utils/errors"
+	"github.com/hariprathap-hp/bookstore_oauth_api/src/domain/userLogin"
+	"github.com/hariprathap-hp/bookstore_users_api/src/utils/errors"
 	"github.com/mercadolibre/golang-restclient/rest"
 )
 

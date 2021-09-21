@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/hari/bookstore_oauth_api/src/dbPostgres"
-	"github.com/hari/bookstore_oauth_api/src/domain/token"
-	"github.com/hari/bookstore_users_api/utils/errors"
+	"github.com/hariprathap-hp/bookstore_oauth_api/src/dbPostgres"
+	"github.com/hariprathap-hp/bookstore_oauth_api/src/domain/token"
+	"github.com/hariprathap-hp/bookstore_users_api/src/utils/errors"
 )
 
 type DbRepository interface {
